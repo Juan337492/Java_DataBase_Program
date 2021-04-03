@@ -1,0 +1,22 @@
+
+/**
+ *
+ * Juan Rodriguez 
+ * Lab 8
+ * Java 2
+ * 3-14-2021
+ */
+.root{ 
+-fx-background-color: #383838;
+}
+.label{
+-fx-text-fill: #c8c8c8;
+-fx-font-size: 15px;
+}
+.button{
+-fx-background-radius: 5;
+-fx-font-size:13px;
+}
+.titleFont{
+ -fx-font-size: 20px;   
+}
